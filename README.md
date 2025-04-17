@@ -15,8 +15,8 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OzyKleyton&layout=compact&theme=radical)
 
 ## 🔥 Projetos em Destaque
-- [**API em Go + Docker**](https://github.com/OzyKleyton/nome-do-projeto): Descrição breve.
-- [**App Fullstack (Next.js + Go)**](https://github.com/OzyKleyton/nome-do-projeto): Descrição breve.
+- [**CLI para GOLANG**](https://github.com/OzyKleyton/go-cli): Um cli criado para gerar um projeto go em camadas.
+- **Em breve**
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozy-kleyton-barbosa-da-silva/)
